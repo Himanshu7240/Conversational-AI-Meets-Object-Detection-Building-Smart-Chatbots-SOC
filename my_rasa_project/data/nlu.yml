@@ -1,0 +1,13 @@
+# data/nlu.yml
+
+nlu:
+  - intent: greet
+    examples: |
+      - Hi
+      - Hello
+      - Hey there
+
+  - intent: detect_objects
+    examples: |
+      - detect objects
+      - what objects are there
