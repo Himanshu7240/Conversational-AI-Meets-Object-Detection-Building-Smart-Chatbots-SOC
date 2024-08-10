@@ -1,9 +1,0 @@
-# data/stories.yml
-
-stories:
-  - story: Greeting and Object Detection
-    steps:
-      - intent: greet
-      - action: utter_greet
-      - intent: detect_objects
-      - action: action_detect_objects
